@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="Id">Id</string>
+    <string name="Code">Código</string>
+    <string name="Name">Nome</string>
+    <string name="Email">E-mail</string>
+</resources>
